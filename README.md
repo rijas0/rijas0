@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rijas0
-- 👀 I’m interested in Coding
+- 👀 Software Developer
 - 🌱 I’m currently learning BCA
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me nmrijasmuhammed@gmail.com | 9446803199(WhatsApp)
