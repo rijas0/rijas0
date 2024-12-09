@@ -2,7 +2,7 @@
 - 👀 Software Engineer
 - 🌱 Persuing BCA
 <!--- 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me nmrijasmuhammed@gmail.com | 9446803199(WhatsApp)
+- 📫  reach me  nmrijasmuhammed@gmail.com | 9446803199(WhatsApp)
 
 <!---
 rijas0/rijas0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
