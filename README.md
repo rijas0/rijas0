@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rijas0
 - 👀 Software Engineer
-- 🌱 I’m currently learning BCA
+- 🌱 Persuing BCA
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me nmrijasmuhammed@gmail.com | 9446803199(WhatsApp)
 
